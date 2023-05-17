@@ -1,3 +1,4 @@
+//Use it with caution.
 package main
 
 import (
