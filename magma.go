@@ -1,4 +1,5 @@
 //Use it with caution.
+//Exaple echo 21,474,836.48|magma32 -key $256bitkey | magma32 -key $256bitkey -unobfuscate -decimal
 package main
 
 import (
